@@ -1,0 +1,7 @@
+id: Alpen
+name: Alpen
+description: The Alpen loving you.
+author_name: Alfasado Inc.
+author_link: http://alfasado.net/
+callbacks:
+  MT::App::CMS::template_source.header: $Alpen::Alpen::loving_you

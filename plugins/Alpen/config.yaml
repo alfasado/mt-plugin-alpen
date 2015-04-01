@@ -3,6 +3,6 @@ name: Alpen
 description: The Alpen loving you.
 author_name: Alfasado Inc.
 author_link: http://alfasado.net/
-version: 1.0
+version: 4.1
 callbacks:
   MT::App::CMS::template_source.header: $Alpen::Alpen::loving_you
